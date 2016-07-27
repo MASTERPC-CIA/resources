@@ -560,8 +560,7 @@ width: 10px;
   margin: 10px 0 0;
 }
 
-.product-big-title-area {background: url(../../resources2/img/crossword.png) repeat scroll 0 0 #304c95;}
-
+.product-big-title-area {background: url(../../../resources/img/crossword.png) repeat scroll 0 0 #304c95;}
 .product-bit-title h2 {
   font-family: raleway;
   font-size: 50px;
@@ -1017,5 +1016,15 @@ background: #414045;
   padding:0;
   position:relative;
   width:100%;
+}
+.about p  ,span{
+  font-weight: 300;
+  font-family: "Raleway",sans-serif;
+  color:#828181;
+  font-weight: bold;
+  letter-spacing: 1.6pt;
+word-spacing: 0.6pt;
+line-height: 1.8;
+ 
 }
 
