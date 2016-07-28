@@ -434,16 +434,16 @@ padding: 35px 0 180px;}
 
 
 .footer-bottom-area {background: #000;color: #fff}
-.footer-about-us span {
+.footer-about-us span{
   color: #304c95;
 }
-.footer-wid-title {
+.footer-wid-title{
   font-family: raleway;
   font-size: 30px;
   font-weight: 100;color: #fff
 }
 
-.footer-about-us h2 {
+.footer-about-us h2  {
   font-weight: 200;
 }
 .footer-menu ul {
@@ -561,6 +561,7 @@ width: 10px;
 }
 
 .product-big-title-area {background: url(../../../resources/img/crossword.png) repeat scroll 0 0 #304c95;}
+
 .product-bit-title h2 {
   font-family: raleway;
   font-size: 50px;
@@ -1027,4 +1028,3 @@ word-spacing: 0.6pt;
 line-height: 1.8;
  
 }
-
